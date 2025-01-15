@@ -45,7 +45,7 @@ This project demonstrated the effective use of analytical expertise and creative
 ---
 
 ## Dashboard Samples  
-(Add screenshots or links to interactive dashboards hosted on platforms like Power BI Service if applicable.)  
+(https://app.powerbi.com/view?r=eyJrIjoiNGNhOWI1NTctNWZhZC00YTMwLTgyZDQtNzFkM2UyYTNiYzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
