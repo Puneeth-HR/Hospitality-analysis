@@ -44,16 +44,14 @@ This project demonstrated the effective use of analytical expertise and creative
 
 ---
 
-## Dashboard Samples  
+## Live dashboard 
 (https://app.powerbi.com/view?r=eyJrIjoiNGNhOWI1NTctNWZhZC00YTMwLTgyZDQtNzFkM2UyYTNiYzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
 ## Contact  
 For more details or collaboration inquiries, feel free to reach out via:  
-- **Email:** [puneethhrpuneethhr@gmail.com]  
 - **LinkedIn:** [(https://www.linkedin.com/in/puneeth-hr-a11986181/)]  
 
 ---
 
-**Note:** This is a hypothetical project for learning purposes and does not represent real business data or insights.  
